@@ -86,3 +86,7 @@ Let’s keep the vintage flame alive!
 
 **Made for the Cmajor & Amorph community** — March 2026  
 Star ⭐ the repo if you enjoy the cheesy warmth!
+
+
+cmajor, dsp, synthesizer, vintage-synth, organ-emulation, string-machine, amorph, audio-plugin 
+
